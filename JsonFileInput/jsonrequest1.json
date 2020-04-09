@@ -1,0 +1,9 @@
+{
+    "from_date": "2020-03-01",
+    "to_date": "2020-04-07",
+    "is_bh": false,
+    "timezone": "Asia/Calcutta",
+    "timezone_offset": "330",
+    "group_by": "daily",
+    "counts_only": false
+}
